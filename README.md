@@ -1,8 +1,8 @@
 # Work_Bridge
-Bridging Employers &amp; Employees.
+Bridging Employers &amp; Employees.  
 Our platform is a smart job-matching web app designed to simplify the hiring process by allowing employees to post job opportunities while enabling employers to discover jobs based on specific skills and locations.
 
-How It Works:
+How It Works:   
 1️⃣ Employees Post Jobs – Employees create job postings, specifying required skills, job location, and other relevant details. This ensures clarity for employers searching for suitable positions.
 
 2️⃣ Employers Search Efficiently – Employers can filter job listings based on location and skill requirements, helping them find the most relevant job opportunities that match their expertise and business needs.
