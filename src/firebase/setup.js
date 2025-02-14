@@ -6,12 +6,12 @@ import {getAuth,GoogleAuthProvider} from "firebase/auth"
 import { getFirestore } from "firebase/firestore"
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAHKIEukunQiyn9z1z8ohwcAyaClVbPUZY",
+  apiKey: "",
   authDomain: "rural-connect-f1404.firebaseapp.com",
   projectId: "rural-connect-f1404",
   storageBucket: "rural-connect-f1404.firebasestorage.app",
-  messagingSenderId: "28587287121",
-  appId: "1:28587287121:web:7112f2d4709f7e4ea18e70"
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase
